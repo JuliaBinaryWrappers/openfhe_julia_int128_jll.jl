@@ -1,491 +1,491 @@
 [[openfhe_julia_int128]]
 arch = "aarch64"
-git-tree-sha1 = "5a9329e7b0848fe6f7267b56f6e3fdd35acf5ad2"
+git-tree-sha1 = "983826abd2c89e8b385f1bea1cb5199bfb49918d"
 julia_version = "1.10.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "fda24a4e73415be4d7a53bc800139e4db91629f4473e84bda4ab6cbc3d6072e9"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "50518e269c478343e55a40791c6299ebcad2e7bf0097f4ee9e98c093746aeacf"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
-git-tree-sha1 = "aec283818a80da03cf8b93e9ce49b760ff4de30d"
+git-tree-sha1 = "398b275e765c1df0c27d1eb86bffa5f12f01c74a"
 julia_version = "1.11.1"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "5f0171bea2fc9c32443645c637d159f68f6cc1e5cf8bf52cbdbe92b8bd13c224"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "48f32eed91a4adc383e8cc26a2fdd11d7ed584311fd3d49b2d41cfd75f1d0f68"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
-git-tree-sha1 = "a54891327f85b17d1c2f347e7f6c605f60d11ca5"
+git-tree-sha1 = "3b64448cb70a1186b86529600c1e95d52f430e48"
 julia_version = "1.12.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "ff77adaa96481d9e9522da4a608b106683134474c3ded80f849279b66b7cf435"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "13b2fd0a53a7a9fff104f1961422cd0d57d6e4ccff7c91a981f7609129c111d2"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
-git-tree-sha1 = "b05712e6763818e7b893f362957017c84dac62a3"
+git-tree-sha1 = "3b813c5c67a320afbf54c8bf0a87d5f4b078b5da"
 julia_version = "1.7.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "5a083842335c0899e0ccddcc7c4e6d69207187ee286e4c3eff2b285268687992"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "eb94e2007b29290ae487e0aa4cbd3476a165389b689d616f1c58aaf7ad92c119"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
-git-tree-sha1 = "915b04e8a51077bb485741516daa24058ac5e3c4"
+git-tree-sha1 = "552f43db5be0782bd267663f42935e2af98759c2"
 julia_version = "1.8.2"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "70e59b1c5fb12ea04f393caab4394d420bbf30362532cd512bba28ed5c1d1a22"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "39cbca20139c774aa58cbf3eca7647524d84c3af5f8cf22b891733f45a210b68"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
-git-tree-sha1 = "be13903b9f486b4b039c29589c21e9509fbe8855"
+git-tree-sha1 = "886446a346dc1f92b5d40180e7a0dc3ea71b49ae"
 julia_version = "1.9.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "ddcb1a073e04af9e1d4599fc931954a679918621794cf870cf1131d6267fb388"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "fca9897e4d29a545c50052baa618dcff3156bdb89d8737318adad53c92e51ff3"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "38d38b57c720f7cf164de140d2c2460a25ac98e4"
+git-tree-sha1 = "be2101c60ca6546a3b5b6d41ff06668467f82df6"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "06be10065d538653c59a2d7e6a456208255da13461f7961c13599061e12e40a6"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "ecc5ce67c05bb4c8ffd3c3decbe75f077cd3862b63aa6cd62c27cbd9deb43c9e"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "66a3b62fad8b0b1563173527ce60dbd110ecc032"
+git-tree-sha1 = "7d19a23f9858ff22eb0e7aa5db17f21df4625cf9"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "1997ef4173b4e9818a1158bddeea8207a7f8f6bb2f035a61e3591341da1c1232"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "c9db0dba1a10a1cf90ba2397256dd767f56c0d16dd77365ae989789e2a748330"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "805abd35963cecf0bd3db52dd0dad2f8b8c29eca"
+git-tree-sha1 = "4207aead1b6f8d6048dd69c2fc01ab0e9b0fde1f"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "f329c73825ee6b6d99b7f6b11a9037b8e732b3f9eaee1082f188e883126c8c56"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "1ae83864ff9f866f13b67bae13042a00e9533e92e64429c629d0cdea6d56e868"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "822905dd1d70f3193186e749150a81001105fc1d"
+git-tree-sha1 = "857bd8c6989e5f228013c8d4b6ef9f71dbc9b22d"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "27e1f5369bc58c812866256b0f56fd22917772e87b070826bda082ca636b817b"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "66595193981be4ce913b5a792575a2e1c3d839d5e04beae86ef5bf2e1026df2f"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4bed85615547697d033d1e33e91c8857046bef39"
+git-tree-sha1 = "e800f7a5d1359d335a6969733a37acb6092e9fa2"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "9f1342df5038bc6906564b7a0cfc542e0e2b814f078e188763abed37403834c5"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "d323738bef4cd6d76220cf8e4f424980010b582b94ddab1919bc46bb8a7ff3b2"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9594a321bc52e9189828d54d82297bc2f6e65a49"
+git-tree-sha1 = "65ec94c79fe1a93f330a874707a9336cfb696e4e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "4b40c0084341a4809ab4d5afa30a21901620a8b28d2e1e4e61f4a0cfc319500a"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "12454fd3b836fea5cdcbb819a322897aa0d96548b8fd14b1ed03ec8399680885"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5c908abb6978c52669c91976285c7146db22197b"
+git-tree-sha1 = "921569b48add9076ff16c8533524ee6361bf766a"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "ec9d632ff84a4f660a5e552ce344722f93d010933b2ce3165c746a6c42e2c62c"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "134fd8040d731dec71b0008e2961bacf441289e26f2ac17f7007b634e8e9bc18"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "655939157efeaff905e2ac3794406a2e3a4ee063"
+git-tree-sha1 = "af7d6711b3839cb0f7228d53cd5e8e8e28ede40c"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "e25098f8e9c397f8778bb6deefee899badcf17783b74653941efeea3a29288a9"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "e4d0c9c6bb404e735777741158c9a0e00a797ff16ed0bafa0e9c052824df2fcb"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "893d2b31afac54fabd3fa1f1d6dff59934bd78e6"
+git-tree-sha1 = "83f7175fac5a048906c72843beae8a5769420509"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "d1fbfe7d24bd125d9e761db15c13dcdfb9f9b49e180ec8fbdbae173a4f19c48d"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "ee1112beb870636ad269d62bc4926aaa525532a1491f23f6eaaae31c76f4e8c9"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ea0f98025b469c224bc487e36fa8d4241ba49cc4"
+git-tree-sha1 = "b76467b0a5cf277d4530cdd535288454cca95bf8"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "d088371cda188d8134d2f88961c3d5ce91c3319191f4a34d0dd536d0b72bf2fc"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "346f925e87e8173551cf8bd4523fb70d280bf0df34c43e8a6b057320cceba526"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b083b3304a38f729977618b58eae3745d824db1e"
+git-tree-sha1 = "5d74753ea914488eac5d3b1d8633ccbeb4ec233f"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "f52fcada679310e7ee2fd9e041ab575bb0fc052b56cc6bc209a94371c7632043"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "c44c36f1ff6997a801912a13edd62a73f5d4d5fc9cf87794908def7681c6d488"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e9c4784f4ba87690c669d7a83e9881b74c4c290c"
+git-tree-sha1 = "46d436b8b27a1c37bb63ea14d084ec40e55ae010"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "9a5f1e05ee14f5db48d45f7002b66bee3945c203c3f0862ca42335d0b16cf3b0"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b6c7df8a4fc7e42305d91f20ee10ca3fb0efeb1348b9812b15e264f4d41ba16c"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5126d9eef5968846d47c55b79a29f98663c6ed1"
+git-tree-sha1 = "486f291640f13f93871d7e62f46cefccebe5475f"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "404b058c7139d3f2b39cd37229b1e0f54ed410541393feadcc4885bb037ded24"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "73f2935748bb82a06a37b2e03a6380e2241f7237f46eee4724b6273365d7e5c3"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "677cef6b3f567dfe8964551dc7197bf354391a46"
+git-tree-sha1 = "9b6661343faf5999b520a9bae7fe3b24e4fc86c6"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "2a670aea936fac8e3c6647db3c24f4fc7c8dd6aa6182199d0b1cd002a0efa91d"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "b0889266baa85532c28f7e9d6da67dc8a378300d2c9d3bfca1209e209bd0e5b5"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "d761b909a395b2e8495e71065143c44c04469e44"
+git-tree-sha1 = "b98118fc34b87d5d2509551525dd7e940d961201"
 julia_version = "1.10.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "da6bb117f574f4d70ea2ee2dffc8302d3d5aaa6a336d13bf69087568f04d75c3"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "c206470087e8bc8371ea31bc08bc4a3e22e16cadcf2c5c933310096ac7fe902d"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "401aaec231f4b0b55e8323cb041ea9c20b88a3e2"
+git-tree-sha1 = "23bc28451519c7d0567ff01efff1cdf118c8beb2"
 julia_version = "1.11.1"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "5ea4ad0b46b434794c7310628e6d10140b165cf2f6ffcdb02b96b86e86e2b033"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "1b8257b056c9f9f556000555d8b6498b6b3db9989117f9e2c3d83032f09027a3"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "78c139c2a3388af8fc23394b858cdec3592872a4"
+git-tree-sha1 = "0a102104c29b07a5ccd914fd4cb3fe11c7c97e54"
 julia_version = "1.12.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "a3f1f59dc6909afa700063690d8772e5fc9976dd315a5ac76f624a0dab6ba5ef"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "278ebe607f4d146be21a081eac987d645a745a2604b608ca48b7d02a3f94527f"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "81d4d4c45b233cbfb5507dc84a267a5e4235ef84"
+git-tree-sha1 = "a13f155ff9f0c442dd6d2023e3d02ae70ecfae5c"
 julia_version = "1.6.3"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "9ae9451c7f6f89d37161bd9d66e5a66aafa2ccb3f5f64190d6ead6a5eb99412a"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "b064a4463d395acd7f1d6aec86e7b6b53d97a3ba7438cfb1029e966f20983fd4"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "3eabe8eae36cdd063264881e3fba0b53bfbfd281"
+git-tree-sha1 = "aa203c320ed39f1dd025eae61b4d17b960978297"
 julia_version = "1.7.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "99f799f9c92cdb6dd76dce81aa3e7206c0f337a0cdc489f4a0a966da48fedc97"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "199b195e3676e3d08eec545e4f85aa2554136988dba8b8edff8c925c446bc303"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "8f5b1b8701dffeb13620cbc5ef400a614f5ed1b7"
+git-tree-sha1 = "1abdf2d499c6b10a46feb9b689503789dd3cd72a"
 julia_version = "1.8.2"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "6d1d422d26a515d11b8ab8781272b2c73eadc7aef6474936e8b3a0d9fdcb9c21"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "663e7c144a84082598aef24a42b85a409e816c522700f11a31f593d8a555734b"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "4630d04a1c85fac2df694033de695170773cb163"
+git-tree-sha1 = "63b77685992a76cf6080b682011e6eb791b0e6fb"
 julia_version = "1.9.0"
 os = "macos"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "5ed54c0bafdb412b63cb1e237c70f397adebd667af7bf45de4c3cd232e3deaf1"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "d6c3e4d985bb4fe35f09b1de96d9ca5ff06c93afbddbe909b4708ef15e47915c"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6caa9948e3bbac272bcceaf628538f5b72b49655"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[openfhe_julia_int128.download]]
-    sha256 = "044f6b161fe24740b5374e70becd31a2ddb8793ea971d084b145cde98206e131"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[openfhe_julia_int128]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1f01f2fc71dbf1734ab21c385489df95d74c6ad3"
-julia_version = "1.11.1"
-libc = "glibc"
-os = "linux"
-
-    [[openfhe_julia_int128.download]]
-    sha256 = "a93084eb728959a8dfea77fdb00c9260fd07d7ecf944e5285a96de7bb2289fd3"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
-[[openfhe_julia_int128]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "34838bb9b3d189b2096eff9a98d53ae51b8a0381"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[openfhe_julia_int128.download]]
-    sha256 = "8afe8302c548f8018129bc445cc52907e7abe64838a9ab51ec3cfce102289695"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[openfhe_julia_int128]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c1375d7cde2807f42518a4d15b641d4f6961aab8"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[openfhe_julia_int128.download]]
-    sha256 = "8fb9a78fcc3156a63ddd7f897eb40d223a354937fbc86afcb6e6bb7865e5f53c"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[openfhe_julia_int128]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a8396632510242c7573c2fd4de62865f9c5a1565"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[openfhe_julia_int128.download]]
-    sha256 = "e234705f5be46ef0a74c521c2094efe91a387130bdd2b839c7692be91c83e222"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[openfhe_julia_int128]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "19a152a8db1478296e6197c0fc46c48599886a81"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[openfhe_julia_int128.download]]
-    sha256 = "c51bb165b30b1c735f40ef57c845bfa47feca0296dfa71d1a880b63e1f43dac6"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[openfhe_julia_int128]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "88ccf4614cee91a63cf2c4533054676464e53fd5"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[openfhe_julia_int128.download]]
-    sha256 = "bebb4da78b879c5bbe5e0f68c4a29ca17fd9139d4856c73c37e30a6923b4efc8"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
-[[openfhe_julia_int128]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c334991e1b3770eb379b52d3034087999824816"
+git-tree-sha1 = "13c776e82d629d910d4f5be686d6ccf60ba4b4df"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "9fdd8b7b576b65650738ba14d0db24c7ecc1c9cd65203492095a25d17007891b"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "7aa1a9ada621b4b6b500b1e330aee87b19058f5d047b9cbf17e51b57373ac206"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c6a5ac4c00556856a0924093e23cef1fb91a913a"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7de6bfcf31b070137a02e969f561feda15f1e372"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "6eeaf5fe9b5c741a2b21ed04b5d0497285684808b934afefa6b488914d73d002"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "a762e434d7c5511142bdc196d97b17141f312baa4b55a42568825eb1a43939db"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b7c38d5e5202ee01540423d11a92033746a9036"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a43a73776a2e691d071c889ac904335d49714753"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "e0aca97e884869243594ff772eb1dd620f26b8b9cd36d6494f10e5bde41968a9"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "4f624e5cffcd6b3dffe68ddaf4c5a3395f2055896a791cc30e0c45553ae1c138"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3fc0e9625dad9e8da2fcad245cddeac9e1c7128b"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0f533f951a323df4f242f669a76e969efd8feb3e"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "d5d92fd4adffe3ee6a5ad09051ff707553abbdcfbd843ebaef334caa150c6b33"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "145c2584aca4ed419b27a1b246c5881c4dc65cda4c6c18c57a73e89fe0f9a6c5"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4aff01ed1566871c0c41dbf19b7e69e054cb4079"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "01d83ccfabfc020d9446813b77530d3c826c55a5"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "482faefdd4cd1f23c9f37b29c39c164e42a3a6a4579c631db18350d59ca38305"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "e06db2e5549f012cb50e8b0815548aa9c69225c6fb5d1e1a089bfe61cbaf2e57"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "9f29f09bb2cbedc5293b6a3e31025a4d26b02882"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "414ebe97ce76b3e67c9f7bb6b5d810e2198348cc"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "93a39aa8a135ca26ceeaca2d15fe31a63c07091a55550a84a78cbe56faa750fd"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "583aead63db372f41a94b83ddc302b3161a6d63aa30a330acc749a91564e9898"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c53c02c6b9eccb68f37a9f74bd01e2b860e7dd5"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fbfc409f9e8919450475eb2998dbcfb461e42e45"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "d2cbbb52ddc7da7160a629c1dc22785afd12f504dff079915a9555106e5ed9e9"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "0089dcbbf894b451302394b041423e5abd74f7c43cb50d88143124aa49df05fb"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "71c21e960779bd41aa3f78c7e6785f63699aa204"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "98710e872f3b3c0aa6489bc854a5608654b256eb"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[openfhe_julia_int128.download]]
+    sha256 = "12f49f19c0ac56251a0bb85b1ac3d28472e82ddd3a508cb77fb93650d62004ed"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[openfhe_julia_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "380604f064c1c472605d5ab940bf0b94d8a19c6d"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[openfhe_julia_int128.download]]
+    sha256 = "59df39f4ecd013e4f5ea339cfcf22b0becaf28c9491ff013df48b4db529a793f"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[openfhe_julia_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "29050cab1fb2f5b84c04c04c12772df71eadc9ec"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[openfhe_julia_int128.download]]
+    sha256 = "171f992ec688d2370b5f443edbd7a8a516ce094a0071670703ac374b5a2b7587"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[openfhe_julia_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0176126352165da8af6b107fd6c61ed4e590ce7a"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[openfhe_julia_int128.download]]
+    sha256 = "52d7a6c70d3605e03ab828dbcc82f83fec13409ba8b18d3431d1c79b9ddea74f"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[openfhe_julia_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2597c4264ac7008394f9e5571dd0b2027ed55c5"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[openfhe_julia_int128.download]]
+    sha256 = "77438dc932a7e7457a49872aa1912020eeac30ab74cbdc03feda05ffab3d9ea8"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[openfhe_julia_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b4c7884e074720b7b0a8b194440a2392122b779a"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[openfhe_julia_int128.download]]
+    sha256 = "f9e5f1d2486c1dbcae166bd5f28160b93aa052546803058050aac68846816842"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[openfhe_julia_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5bd34f5f1a80624b44d519dac935172637eef229"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[openfhe_julia_int128.download]]
+    sha256 = "4574f150575b172e69c7f46c12fdf29e0eec071c6524e5528d50e40f12211e20"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[openfhe_julia_int128]]
+arch = "x86_64"
+git-tree-sha1 = "689de456ae2854dca4cf8bd81cc896016542d77e"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "f2258f02d719c1eaa80e96a1c2c5c25b81b58ad0b81ffd849c9aa007b5f0c58f"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "00ee60ffbd384a529395c7d913d039e9ec209d05cfbfc5cbb2dedfcdfdaed765"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "023704944d85cf03a2c3baf09f251d8023067587"
+git-tree-sha1 = "b31b0c9cb46e5afc97e8ad3a7ddbbf3e2cbaaacb"
 julia_version = "1.11.1"
 os = "freebsd"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "4fb85a8f0ef539c1e874a0047faa4762672c1c0b185d402c1a2da3595d5b8b9d"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    sha256 = "6b3e3872abf7a3d0072082d8f00b8ab94989d0dbbc4f71e846cfcb307bc30964"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "f21daaa991c8c5fb89d70f8c0a3fe29898f95124"
+git-tree-sha1 = "4af903580a67079a806f9a3e060f60bedb5bfb4b"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "056c7aac653c7c84a9b8e12b7fd369c1a8eddc217af4f6ba9d3ecd19cec5b48f"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "fd0a2367760c2abfb19b6366ebcfc07577ccf11bc1071bf714cead52f5c8e375"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "1471d521845490cd10c1c269cdf645a69ff31bb4"
+git-tree-sha1 = "89e0dae6fc1dff50fc84e02e287691b2bda895eb"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "c27cb61ea2d2ca995225d3aedcf44367990d19643a7b48abc7b29534ab01e673"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "c93ecce5426f8b3298763f27d06a45fd0c1e0e9c4e1d704c980bb62973b6f41d"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "6f2c622074ec914a17612ae4c738bff238dea735"
+git-tree-sha1 = "d0b1bb345846330e94ac0fa7cf7a4617e582f2f7"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "062ce0fd6d478224d4d7638e4626b306ad2c1961a23d85241591e3510d8597a8"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "6ae3223008c26aeb22526eb601ddb3d340b2f4b169fba057352b8396779c05cd"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "762cf2e71b3579187b49a60c461a90f54c17842b"
+git-tree-sha1 = "5b53d026c53f166bde22fa10c78eadb8f70359b0"
 julia_version = "1.8.2"
 os = "freebsd"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "d78419be5e084ddd90c7079f2027e1504a9b62d309ec7ded6d31c518f5ad2984"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+    sha256 = "600d00c40089b5835a91fdf0c8ccbfa87c837144008da91c16b68f28f06cdc02"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
-git-tree-sha1 = "1d58e93821af93c644a57cc0eaf013580ecbd2db"
+git-tree-sha1 = "5f8c34673ae42e86530310cea38f8e1c2d1cec80"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[openfhe_julia_int128.download]]
-    sha256 = "71fe017f7240b64d93685dd5ef559329b23141ed57a4ecd191166f346643f0f3"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "d69e1561839ab9ad650638d43514dc81c977ecb0ca24cc4929f3bae18de9c5fc"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -495,7 +495,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "2b21f6308a891696f8f2aac70280b68fae39c93511ca03edaf12dad33444b38c"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -505,7 +505,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "e105df14ef0ed3d78033088af946ee580ffe2ca6549f35c2d0bc54899d4ee415"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -515,7 +515,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "39df7025b49c9842626a0bece286975670aa45662b4959787083b8dd1f279459"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -525,7 +525,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "e4cfcc93f7df1355f117b024c34a412a777af254c733477d36943d5f237d575b"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -535,7 +535,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "ab84f462710f0f2d866663dd677bfa49f5606d70037e2136841834c51493f20f"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -545,7 +545,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "51348d5afed7713a07d7c48d0f45e08da12b72ef9481f8962a5309b08e8a05b8"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -555,7 +555,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "76f3ef30784f57ecfd3e75eb0a88b2527b7f99e2ef34e42c81def508018e75f5"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -565,7 +565,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "610ca9a5795188ff29d12d12874b3e2fbc2cd4eaacebb0807e313db4a0e0c571"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -575,7 +575,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "82a1407cada42549c54915f6f32d4aa797a162b85092b722070935500fc2f3ce"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -585,7 +585,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "406f619cccd32fef38593f384c079079680facd0d91e22dd2476b898eb84c115"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -595,7 +595,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "d6de015a19fe47fe75d4ea8b8a0228d6b25978146cf6c74ee9666eb4cdab265a"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -605,7 +605,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "7ef40dc534d9f249796162550f97a47a8295476bd10dd148df32b1d0850a2efc"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -615,7 +615,7 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "76e057b07288e9e3a93e63e03257cf0cdd61ada18fa60385d64d1573a86508e6"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[openfhe_julia_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -625,4 +625,4 @@ os = "windows"
 
     [[openfhe_julia_int128.download]]
     sha256 = "d5c986bb5b1ee2b6265f637a0bab364e735b8255ab8c4ed797efe0d5f58a7105"
-    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.7+0/openfhe_julia_int128.v0.3.7.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openfhe_julia_int128_jll.jl/releases/download/openfhe_julia_int128-v0.3.8+0/openfhe_julia_int128.v0.3.8.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
