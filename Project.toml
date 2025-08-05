@@ -1,6 +1,6 @@
 name = "openfhe_julia_int128_jll"
 uuid = "328aa5c7-aa14-5b23-aa57-05fb7d04b830"
-version = "0.3.10+0"
+version = "0.3.11+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
