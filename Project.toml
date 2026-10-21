@@ -1,20 +1,20 @@
+version = "0.6.4+0"
 name = "openfhe_julia_int128_jll"
 uuid = "328aa5c7-aa14-5b23-aa57-05fb7d04b830"
-version = "0.6.3+0"
 
 [deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 OpenFHE_int128_jll = "a89a0bdd-1663-5679-8b21-c3a5388322bc"
 libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
-Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 
 [compat]
-JLLWrappers = "1.7.0"
-julia = "~1.10, ~1.11, ~1.12, ~1.13"
-OpenFHE_int128_jll = "1.5.0"
-libcxxwrap_julia_jll = "0.14.4"
 Libdl = "< 0.0.1, 1"
+julia = "~1.10, ~1.11, ~1.12, ~1.13"
+JLLWrappers = "1.7.0"
+OpenFHE_int128_jll = "1.6.0"
 Artifacts = "< 0.0.1, 1"
+libcxxwrap_julia_jll = "0.14.4"
